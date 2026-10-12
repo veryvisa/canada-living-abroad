@@ -1,14 +1,20 @@
 # 长期在海外生活的加拿大居民（微出国 VeryVisa）
 
-> 把身份、回程、税务与留在加拿大的家事排清，知道哪些资料可以先整理、哪些决定需要专业意见。
+> 永居居住天数、枫叶卡过期返加、离境当年的税务与福利、回流 BC 的医保与落地安排，整理成可核对的清单。
 
 网址：https://veryvisa.github.io/canada-living-abroad/
 提供方：微出国（VeryVisa）。微出国是在加拿大不列颠哥伦比亚省的中文专业服务团队，服务海外华人家庭与小企业。
 咨询：页面底部表单，或邮件 veryvisa.com@gmail.com
-信息截至：2026-10-07
+信息截至：2026-10-11
+
+## 交付内容
+居住天数表 按护照出入境记录逐段列明在加拿大的日期，按「最近五年」滚动计算，标出枫叶卡到期日与递交续卡、旅行证件的时间点。天数不足的，列明还差多少天、最早何时补足。 离境与回流事项清单 离开或回到加拿大的那一年，税务居民身份、离境申报、福利停发或恢复、MSP、银行与注册账户逐项列出，每项写明主管机构、期限与需要您提供的资料。 留在加拿大的家事清单 房屋空置或出租、代收信件、保险、车辆与政府账户，各由谁负责、何时到期，汇成一页。
 
 ## 先把几条时间线分开
 身份与回程 枫叶卡有效期、永居居住义务与税务居民身份分开核对。先整理出入境日期与家庭关系，再联系服务团队安排个案意见，并按证件条件规划回程。 住房与日常事务 房屋空置或出租时，保险、税务、物业与代收信件各有要求。明确谁可以办什么，银行和政府账号由本人掌握。 养老金与回流 按实际居住与缴费记录核对养老金；回流时，把住址、医保、住房和学校的安排逐项接上。
+
+## 适用情形
+枫叶卡快到期，天数不够 以为居住义务从落地那天起算，到续卡时才发现是按最近五年滚动计算。 拿到身份后一直没回来 登陆之后回到原居住国，枫叶卡已经或即将到期，不确定还能否入境、该补天数还是放弃身份。 离开加拿大的那一年 不清楚是否仍是税务居民，没有报离境申报，福利照常到账，几年后收到退还通知。 孩子在海外出生 父母本身也在海外出生或长大，不确定孩子能否取得加拿大公民身份、要满足什么条件。 准备回流 BC 回来之后住址、医保、银行与学校要逐项接上，医保生效之前的空档要事先安排。 人在海外，房子留在加拿大 房屋出租或空置，非居民预扣、保险条件与日常照管需要有人负责。
 
 ## 迁入迁出的税务
 身份卡与税务居民判断不是同一件事。涉及离境资产、租金与福利的，先整理迁入迁出的税务时间线，个案判断另由专业人士确认。
@@ -19,6 +25,9 @@
 ## 谁来做什么
 我们把日期、文件与待办事项整理成可复核的清单；需要移民、保险、地产、税务或法律判断时，按事项衔接相应专业人士。
 
+## 在海外的人常说的几件事
+以下几段取自公开论坛的原话，链接附后。个案经过以原帖为准。 以为天数从落地那天起算。 「Unfortunately I didn’t realize this was done on a rolling basis」（r/ImmigrationCanada）。IRCC 的说法是：「To keep your PR status, you must have been in Canada for at least 730 days during the last five years.」续卡与入境时看的是最近五年。详见永居居住天数与资料表。 枫叶卡过期，人还在海外。 「Became a PR years ago, landed, then left.」（r/ImmigrationCanada）。IRCC 说明，即使未满足居住义务，在正式决定作出之前仍是永久居民；旅行证件（PRTD）只能在加拿大境外申请。详见枫叶卡过期后从海外返加。 离开以后，福利还在照常到账。 一位家属写道：「Did not file an EMIGRANT return, when they left.」此后几年仍按居民报税、领取 GST/HST 抵免与省福利（r/cantax）。CRA 说明，非居民一般不能领取加拿大儿童福利（CCB）等福利；离境时视同出售财产，可能要申报资本利得，离境时所有财产公平市值合计超过 25,000 加元的，另有申报表要填。 孩子在海外出生。 「Child (2 yo) has never been to Canada.」申请递交一年多仍无回音（r/ImmigrationCanada）。IRCC 对 2025 年新规的说明中，有一项条件是父母在孩子出生前「spent at least 1,095 days in Canada」；是否适用于您家，以 IRCC 原文为准。详见海外出生子女的公民身份。 回到 BC，医保从哪天开始。 「Trying to understand if I would be excluded from the 90 day wait period.」（r/
+
 ## 常见问题
 
 问：长期在海外，第一步先整理什么？
@@ -27,9 +36,31 @@
 问：枫叶卡、居住义务与税务身份是一回事吗？
 答：不是。三者采用不同规则，应分别核对证件、实际日期和税务事实。
 
+问：永居居住义务从哪天开始算？
+答：按最近五年滚动计算。IRCC 说明，保持永久居民身份须在最近五年内在加拿大至少 730 天；续卡或入境时，看的是当时往回数的五年。见 IRCC：永久居民身份。
+
+问：枫叶卡已经过期，人在海外，还是永久居民吗？
+答：IRCC 说明，即使未满足居住义务，在正式决定作出之前仍是永久居民。枫叶卡过期后搭乘航班返加，一般需要永久居民旅行证件（PRTD），而 PRTD 只能在加拿大境外申请。见 IRCC：在海外的永久居民。
+
+问：离开加拿大以后，福利与抵免会怎样？
+答：CRA 说明，非居民一般不能领取加拿大儿童福利（CCB）等福利。离境后仍按居民报税、继续领取的，日后可能需要退还。离境那一年宜按离境居民申报，并把离境日期告知 CRA。
+
+问：离境那一年，资产要怎样申报？
+答：CRA 说明，离境时一般视同出售所持财产，可能要申报资本利得（离境税）；离境时所有财产公平市值合计超过 25,000 加元的，另须填写相应申报表。具体如何申报，宜由会计师按个案判断。见 CRA：离开加拿大。
+
+问：长期在海外，回到 BC 后医保怎样恢复？
+答：BC 规定，一年内离开 BC 六个月或以上的居民须联系 Health Insurance BC。回流后能否恢复、何时生效，以 Health Insurance BC 的答复为准；生效之前的空档，宜事先安排私人医疗保险。
+
+问：退休后住在海外，可以领 OAS 吗？
+答：按 Canada.ca 的说明，住在加拿大境外领取 OAS，须在 18 岁之后在加拿大居住满 20 年。CPP 按缴费记录计算，与居住地无关，具体以 Service Canada 的核定为准。
+
 ## 参考资料
 - IRCC：永久居民身份: https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/pr-card/understand-pr-status.html
 - CRA：离开加拿大的税务居民: https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/leaving-canada-emigrants.html
+- IRCC：在海外的永久居民与旅行证件: https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/travel-outside-canada.html
+- IRCC：2025 年公民身份新规: https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/act-changes/rules-2025.html
+- BC：暂时离开 BC 时的 MSP: https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp/bc-residents/managing-your-msp-account/leaving-bc-temporarily
+- Canada.ca：OAS 资格: https://www.canada.ca/en/services/benefits/publicpensions/old-age-security/eligibility.html
 
 ## 站内页面
 
